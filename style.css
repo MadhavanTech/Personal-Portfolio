@@ -1237,7 +1237,6 @@ button:hover{
     .link > img {
         width: 100%;
         height: 100%;
-        object-fit: cover;
     }
     .readme {
         width: 100%;
@@ -2003,6 +2002,7 @@ button:hover{
     }
 
 }
+
 
 
 
